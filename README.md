@@ -6,15 +6,6 @@ Ce projet vise à analyser des variants génétiques associés à des maladies h
 
 ---
 
-## Technologies utilisées
-
-- **Hadoop** / **Spark** : Traitement Big Data
-- **MongoDB** : Base de données NoSQL pour stocker les résultats
-- **Python** : Scripts de traitement, nettoyage et machine learning
-- **Talend** : Processus ETL (Extraction - Transformation - Chargement)
-
----
-
 ## Processus du projet
 
 1. **Conversion VCF → CSV**  
