@@ -29,4 +29,14 @@ Ce projet vise à analyser des variants génétiques associés à des maladies h
 
 ---
 
+## Data Information
+
+⚠️ **The ClinVar VCF file is too large to upload here.**
+
+You can manually download the dataset from:
+
+👉 [ClinVar VCF Download Link](https://ftp.ncbi.nlm.nih.gov/pub/clinvar/vcf_GRCh38/clinvar.vcf.gz)
+
+
+
 
