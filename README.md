@@ -29,12 +29,4 @@ Ce projet vise à analyser des variants génétiques associés à des maladies h
 
 ---
 
-## Arborescence du projet
 
-```bash
-.
-├── data/              # Données brutes et fichiers de travail
-├── scripts/           # Scripts Python pour conversion et traitement
-├── results/           # Résultats du nettoyage et des analyses
-├── figures/           # Graphiques générés
-├── README.md          # Ce fichier
